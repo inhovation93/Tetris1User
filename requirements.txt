@@ -1,0 +1,3 @@
+# st.fragment(run_every=...)가 1.37에서 정식 API가 되었다.
+# 그보다 낮은 버전에서는 app.py가 experimental_fragment로 대체 동작한다.
+streamlit>=1.37

@@ -1,2 +1,2 @@
-# Tetris3Users
-Play Tetris w/ 3 users in same network
+# Tetris1User
+Tetris 1 User ver.
